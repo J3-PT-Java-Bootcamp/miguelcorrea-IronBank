@@ -1,4 +1,4 @@
-package com.ironhack.ironbank.http.requests;
+package com.ironhack.ironbank.helpclasses;
 
 import lombok.Getter;
 
